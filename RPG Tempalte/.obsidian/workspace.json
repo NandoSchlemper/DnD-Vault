@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e382a00c7d55f30",
+        "id": "934a55d020fe52ea",
         "type": "tabs",
         "children": [
           {
-            "id": "f7271180a8476498",
+            "id": "0cd7143fdfa7b906",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03) Monsters/03) Monsters.md",
-                "mode": "preview",
-                "source": true
+                "file": "RPG's do Bekanius/Forgotten Tales of Velkia/Characters/Três Meia Cinco.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "03) Monsters"
+              "title": "Três Meia Cinco"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 226.5
   },
   "right": {
     "id": "cc7050565f47533e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00) Vault Information/00) Vault Information.md",
+                "file": "RPG's do Bekanius/Forgotten Tales of Velkia/Characters/Três Meia Cinco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00) Vault Information"
+              "title": "Backlinks for Três Meia Cinco"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06) The Corvid Compendium/Monsters/10) Demon/Gnoll Cackles/Gnoll Cackle Chief.md",
+                "file": "RPG's do Bekanius/Forgotten Tales of Velkia/Characters/Três Meia Cinco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gnoll Cackle Chief"
+              "title": "Outgoing links from Três Meia Cinco"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03) Monsters/03) Monsters.md",
+                "file": "RPG's do Bekanius/Forgotten Tales of Velkia/Characters/Três Meia Cinco.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03) Monsters"
+              "title": "Outline of Três Meia Cinco"
             }
           }
         ],
@@ -170,54 +170,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae5f8849f862fad5",
+  "active": "e114ba1da2220339",
   "lastOpenFiles": [
-    "03) Monsters/Ape.md",
-    "03) Monsters/Allosaurus.md",
-    "03) Monsters/Adult Blue Dragon.md",
-    "03) Monsters/Adult Black Dragon.md",
-    "03) Monsters/Aboleth.md",
-    "05) Homebrew Alley/05) Homebrew Alley.md",
-    "01) Players/04) Character Origins.md",
-    "05) Homebrew Alley/Templates/Spell.md",
-    "05) Homebrew Alley/Templates/Species.md",
-    "05) Homebrew Alley/Templates/Subclass.md",
-    "05) Homebrew Alley/Templates/Tool.md",
-    "05) Homebrew Alley/Templates/Weapon.md",
-    "05) Homebrew Alley/Templates/Trap.md",
-    "05) Homebrew Alley/Templates/Creature.md",
-    "05) Homebrew Alley/Templates/Eldritch Invocation.md",
-    "05) Homebrew Alley/Templates/Equipment.md",
-    "05) Homebrew Alley/Templates/Feat.md",
-    "05) Homebrew Alley/Templates/Metamagic Option.md",
-    "05) Homebrew Alley/Templates/Magic Item.md",
-    "03) Monsters/03) Monsters.md",
-    "03) Monsters/Goblin Warrior.md",
-    "03) Monsters/Cockatrice.md",
-    "01) Players/01) Playing the Game.md",
-    "03) Monsters/Spell Summons/Otherworldly Steed.md",
-    "03) Monsters/Spell Summons/Giant Insect.md",
-    "03) Monsters/Spell Summons/Draconic Spirit.md",
+    "Untitled.base",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Characters/Três Meia Cinco.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Players/Renan.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Factions/Porto Negro.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Characters/Ekko.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Characters/Taulgar.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Characters/Higan Tepes.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Characters/Hana.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Players/Gabriel.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Players/Foxy.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Players/Arki.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Cidade da Pedra Lascada.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Queda de Lúcifer.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Rocha-Morta.md",
+    "Shadowdark Homebrew/Creatures/Kobold Recruta.md",
+    "Shadowdark Homebrew/Creatures/Kobold Saqueador.md",
+    "Shadowdark Homebrew/Creatures/Kobold Feiticeiro.md",
+    "Shadowdark Homebrew/Creatures/Kobold Guerreiro.md",
+    "RPG's do Bekanius/Monsters/Aboleth.md",
+    "Shadowdark Homebrew/Creatures/Untitled",
+    "Shadowdark Homebrew/Creatures",
+    "Shadowdark Homebrew",
+    "RPG's do Bekanius/Monsters/Bone Devil.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Geography & Politics/Reino de Ammotis.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Geography & Politics/Antiga Louthin.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Geography & Politics/Reino de Okkamos.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Untitled.base",
+    "Barba de Bronze.md",
+    "Mineração Redenção.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Culture & Population/Ammotenses.md",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Factions",
+    "05) Homebrew Alley/Attachments/Pasted image 20260112153624.png",
+    "RPG's do Bekanius/Homebrew Alley/Attachments/Pasted image 20260108140656.png",
+    "05) Homebrew Alley/Attachments/95ac9b8f0cf113bd52ba93307b8f763c.jpg",
+    "05) Homebrew Alley/Attachments",
+    "05) Homebrew Alley",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/NPCs",
+    "RPG's do Bekanius/Homebrew Alley/Attachments/Pasted image 20260108112255.png",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Adventures/Creatures",
+    "RPG's do Bekanius/Forgotten Tales of Velkia/Culture & Population",
     "05) Homebrew Alley/Attachments/Pasted image 20251018090309.png",
     "05) Homebrew Alley/Attachments/Pasted image 20251018073453.png",
-    "04) Backlink Glossary/Classes/Wizard.zip",
-    "04) Backlink Glossary/Classes/Unconfirmed 530282.crdownload",
-    "04) Backlink Glossary/Spells/Unconfirmed 995135.crdownload",
     "05) Homebrew Alley/Attachments/Pasted image 20251017154912.png",
-    "05) Homebrew Alley/Templates/Class Feature Types",
     "05) Homebrew Alley/Attachments/Pasted image 20251017131131.png",
-    "SRD_CC_v5.2.1.pdf",
-    "04) Backlink Glossary/Level 9",
-    "04) Backlink Glossary/Level 8",
-    "04) Backlink Glossary/Level 7",
-    "04) Backlink Glossary/Level 6",
-    "04) Backlink Glossary/Level 5",
     "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Slaughterhouse/The Slaughterhouse.png",
     "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Slaughterhouse/The Slaughterhouse - Creatures.png",
-    "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Ivory Throne/The Ivory Throne.png",
-    "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Ivory Throne/The Ivory Throne - Creatures.png",
-    "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Faceless Tabernacle/The Faceless Tabernacle.png",
-    "The Corvid Compendium/Old File Structure/Session Notes/Relics of the Soulsworn/Campaign Prep/Frightening Fens/The Faceless Tabernacle/The Faceless Tabernacle - Creatures.png",
     "06) The Corvid Compendium/Monsters/Untitled.canvas",
     "01) Players/03) Character Classes/Untitled.canvas"
   ]

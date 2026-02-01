@@ -8,5 +8,11 @@
   "foldHeading": false,
   "foldIndent": false,
   "showIndentGuide": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "userIgnoreFilters": [
+    "05) Homebrew Alley/",
+    "RPG's do Bekanius/Monsters/",
+    "RPG's do Bekanius/Homebrew Alley/"
+  ]
 }

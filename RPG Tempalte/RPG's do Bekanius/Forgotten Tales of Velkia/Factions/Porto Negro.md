@@ -1,0 +1,2 @@
+### Descricao
+O Porto Negro é uma guilda de piratas urbanos que controla parte dos pequenos vilarejos portuários de Okkamos, eles tem um contrato bom com o Reino, dessa foram conseguem ficar tanquilos mesmo cometendo atrocidades
